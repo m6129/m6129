@@ -13,10 +13,9 @@
 ---------
 **Библиотека моделей:**  
 [Darts ( N-BEATS, N-HiTS, catboost, croston, DLinear, NLinear и другие 30 моделей) ](https://github.com/unit8co/darts/tree/master/darts/models)  
-
 [PytorchForecasting( N-HiTS, N-BEATS, DeepAR, mlp, rnn, temporal fusion transformer (TFN) )](https://github.com/jdb78/pytorch-forecasting)
-
 [от Nixtla (Neuralforecast) (LSTM, GRU, RNN, DilatedRNN, DeepAR, TCN, TimesNet, DLinear, MLP, N-BEATS, N-HiTSm TFT, \\Trans/Info/Auto/FED\\former, PatchTST, StemGNN )](https://github.com/Nixtla/neuralforecast)
+[tsai (PatchTST +30 моделей deep learning)](https://github.com/timeseriesAI/tsai)
 
  -------------- 
 **Комплексные библиотеки:**  
@@ -30,15 +29,41 @@
 
 ----------
 **Одиночные модели:**  
+[SegRNN](https://github.com/lss-1138/SegRNN)
+[PatchTST(official)](https://github.com/yuqinie98/patchtst)
 
+[PatchMixer (official)](https://github.com/Zeying-Gong/PatchMixer)
+[PatchMixer](https://github.com/yuvrajiro/rt_forecasting_PatchMixer)
 [n-beats](https://github.com/philipperemy/n-beats)  
 [N-BEATS](https://github.com/ServiceNow/N-BEATS)
+
+[Multivariate Time Series Transformer Framework](https://github.com/gzerveas/mvts_transformer)  
+[FEDformer](https://github.com/DAMO-DI-ML/ICML2022-FEDformer)
 
 ---------
 **Соревнования Макридакиса:**
 
+[official site](https://mofc.unic.ac.cy/)
 [Данные, контрольные показатели и методы, представленные на конкурс прогнозирования M5](https://github.com/Mcompetitions/M5-methods)
+[набор данных M4 +информация о M5, M6 ](https://github.com/Mcompetitions)
 
-**Бенчмарки/Эталонные наборы данных:**  
+**Бенчмарки/Эталонные наборы данных:**    
 
-[Код для воспроизведения результатов из статьи "Unified Long Horizon Time Series Benchmark"](https://github.com/MIMUW-RL/Unified-Long-Horizon-Time-Series-Benchmark)
+**Прогнозирование**  
+
+[Код для воспроизведения результатов из статьи "Unified Long Horizon Time Series Benchmark"](https://github.com/MIMUW-RL/Unified-Long-Horizon-Time-Series-Benchmark)  
+
+[ETT-small (ETTh1, ETTh2, ETTm1, ETTm2)](https://github.com/zhouhaoyi/ETDataset)  
+
+[ECL](https://archive.ics.uci.edu/dataset/321/electricityloaddiagrams20112014)  
+[TSER](http://tseregression.org/#datasets)  
+
+Das, A. A decoder-only foundation model for time-series forecasting. 2023:  [Wiki](https://www.kaggle.com/code/muonneutrino/wikipedia-traffic-data-exploration), [ILI](https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html) 
+
+[weather, traffic, illness, exchange_rate, ETT_small,electricity](https://drive.google.com/drive/folders/1vE0ONyqPlym2JaaAoEe0XNDR8FS_d322)
+    
+[от авторов TimeLLM](https://drive.google.com/file/d/1NF7VEefXCmXuWNbnNe858WvQAkJ_7wuP/view?usp=sharing)
+
+где-то
+UCR
+UEA
