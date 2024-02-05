@@ -10,7 +10,7 @@
 [Облака](https://github.com/m6129/m6129/blob/main/Clouds/clouds_info.md)  
 [Поиск статей](https://github.com/m6129/m6129/blob/main/research/research_info.md)  
 [Помощники](https://github.com/m6129/m6129/blob/main/Assistent/assistent_info.md)  
-[Обработка естественного языка](https://github.com/m6129/m6129/blob/main/Time%20Series/TS_info.md)  
+[Обработка естественного языка](https://github.com/m6129/m6129/blob/main/NLP/LLM_info.md)  
 [Программирование](https://github.com/m6129/m6129/blob/main/programming/programming_info.md)  
 
 
