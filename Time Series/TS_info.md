@@ -13,8 +13,10 @@
 ---------
 **Библиотека моделей:**  
 [Darts ( N-BEATS, N-HiTS, catboost, croston, DLinear, NLinear и другие 30 моделей) ](https://github.com/unit8co/darts/tree/master/darts/models)  
-[PytorchForecasting( N-HiTS, N-BEATS, DeepAR, mlp, rnn, temporal fusion transformer (TFN) )](https://github.com/jdb78/pytorch-forecasting)
-[от Nixtla (Neuralforecast) (LSTM, GRU, RNN, DilatedRNN, DeepAR, TCN, TimesNet, DLinear, MLP, N-BEATS, N-HiTSm TFT, \\Trans/Info/Auto/FED\\former, PatchTST, StemGNN )](https://github.com/Nixtla/neuralforecast)
+[PytorchForecasting( N-HiTS, N-BEATS, DeepAR, mlp, rnn, temporal fusion transformer (TFN) )](https://github.com/jdb78/pytorch-forecasting)  
+
+[от Nixtla (Neuralforecast) (LSTM, GRU, RNN, DilatedRNN, DeepAR, TCN, TimesNet, DLinear, MLP, N-BEATS, N-HiTSm TFT, \\Trans/Info/Auto/FED\\former, PatchTST, StemGNN )](https://github.com/Nixtla/neuralforecast)  
+
 [tsai (PatchTST +30 моделей deep learning)](https://github.com/timeseriesAI/tsai)
 
  -------------- 
@@ -43,8 +45,8 @@
 ---------
 **Соревнования Макридакиса:**
 
-[official site](https://mofc.unic.ac.cy/)
-[Данные, контрольные показатели и методы, представленные на конкурс прогнозирования M5](https://github.com/Mcompetitions/M5-methods)
+[official site](https://mofc.unic.ac.cy/)  
+[Данные, контрольные показатели и методы, представленные на конкурс прогнозирования M5](https://github.com/Mcompetitions/M5-methods)  
 [набор данных M4 +информация о M5, M6 ](https://github.com/Mcompetitions)
 
 **Бенчмарки/Эталонные наборы данных:**    
@@ -64,6 +66,17 @@ Das, A. A decoder-only foundation model for time-series forecasting. 2023:  [Wik
     
 [от авторов TimeLLM](https://drive.google.com/file/d/1NF7VEefXCmXuWNbnNe858WvQAkJ_7wuP/view?usp=sharing)
 
-где-то
-UCR
-UEA
+
+
+
+где-то UCR и UEA  
+
+
+----
+**ссылки на статьи:** [брал отсюда](https://nixtlaverse.nixtla.io/datasetsforecast/long_horizon.html)    
+
+[ECL](http://arxiv.org/abs/1907.00235)  
+[Exchange](http://arxiv.org/abs/1703.07015)  
+[TrafficL](http://arxiv.org/abs/1703.07015), [а также](https://arxiv.org/abs/2106.13008)  
+[ILI](https://arxiv.org/abs/2106.13008)  
+[Weather](https://arxiv.org/abs/2106.13008)  
