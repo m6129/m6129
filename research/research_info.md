@@ -4,7 +4,7 @@
 [scilit](https://www.scilit.net/)  
 [paperswithcode](https://paperswithcode.com/)  
 [ArXiv](https://arxiv.org/)  
-[researchrabbit](https://www.researchrabbit.ai/)
+[researchrabbit](https://www.researchrabbit.ai/)  
 [google scholar](https://scholar.google.com)  \
 [https://ieeexplore.ieee.org (без доступа бесполезна)](https://ieeexplore.ieee.org)
 [lens (есть патенты, лицензии и другие фишки)](https://www.lens.org/)    
