@@ -2,7 +2,11 @@
 
 **Обработка естественного языка. Учебные материалы**  
 
- **на русском:**
+ **на русском:**  
+
+ [Игорь Котенков - State of the LLM Landscape](https://youtu.be/TBxt2Bz65GM)  
+ [Игорь Котенков - RLHF Intro: from Zero to Aligned Intelligent Systems](https://www.youtube.com/watch?v=N1AcqGVR_mE) 
+
 [крутая лекция по transformers и NLP](https://www.youtube.com/watch?v=iOrNbK2T92M),  
 [презентация](https://onedrive.live.com/view.aspx?resid=6C28C18DAAD1CD59%212711&authkey=!AFx3v5axj2hSbnQ),
 [и это Игорь Котенков объясняет GPT](https://www.youtube.com/@stalkermustang)

@@ -13,11 +13,13 @@
 ---------
 **Библиотека моделей:**  
 [Darts ( N-BEATS, N-HiTS, catboost, croston, DLinear, NLinear и другие 30 моделей) ](https://github.com/unit8co/darts/tree/master/darts/models)  
+
 [PytorchForecasting( N-HiTS, N-BEATS, DeepAR, mlp, rnn, temporal fusion transformer (TFN) )](https://github.com/jdb78/pytorch-forecasting)  
 
-[от Nixtla (Neuralforecast) (LSTM, GRU, RNN, DilatedRNN, DeepAR, TCN, TimesNet, DLinear, MLP, N-BEATS, N-HiTSm TFT, \\Trans/Info/Auto/FED\\former, PatchTST, StemGNN )](https://github.com/Nixtla/neuralforecast)  
+[от Nixtla (Neuralforecast) (LSTM, GRU, RNN, DilatedRNN, DeepAR, TCN, TimesNet, DLinear, MLP, N-BEATS, N-HiTS, TFT, \\Trans/Info/Auto/FED\\former, PatchTST, StemGNN )](https://github.com/Nixtla/neuralforecast)  
 
-[tsai (PatchTST +30 моделей deep learning)](https://github.com/timeseriesAI/tsai)
+[tsai (PatchTST +30 моделей deep learning)](https://github.com/timeseriesAI/tsai)  
+
 
  -------------- 
 **Комплексные библиотеки:**  
