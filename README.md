@@ -1,5 +1,5 @@
 ### Всем Доброго дня 👋
-Меня  зовут Антон. Ищу работу / стажировку в сфере ML, DS m6129ds@gmail.com
+ m6129ds@gmail.com
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m6129&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=m6129&theme=monokai)
