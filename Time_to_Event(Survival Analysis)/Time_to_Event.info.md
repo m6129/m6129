@@ -1,6 +1,16 @@
 Time-to-Event  
 честно взято с ODS.ai  
+**youtube**  
+[Introduction to Survival Analysis [1/8]](https://youtu.be/v1QqpG0rR1k)  
+- - -
+Библиотеки:
+Survival analysis with Catboost — почти не секретный туториал по тому, как запускать Cox и AFT модели на Catboost
+[scikit-survival](https://scikit-survival.readthedocs.io/en/stable/user_guide/index.html)
+[auton-survival](https://github.com/autonlab/auton-survival)
+[lifelines](https://lifelines.readthedocs.io/en/latest/index.html#)
 
+
+**Статьи**  
 [[Arxiv, 2023] Deep Learning for Survival Analysis: A Review — качественный обзор современных нейросетевых архитектур и постановок в Time-to-Event задачах](https://arxiv.org/pdf/2305.14961.pdf)  
 
 [[NCBI, 2021] Review of Statistical Methods for Evaluating the Performance of Survival or Other Time-to-Event Prediction Models (from Conventional to Deep Learning Approaches) — обзор метрик, используемых в Time-to-Event задачах.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8484151/)  

@@ -21,8 +21,10 @@
 [tsai (PatchTST +30 моделей deep learning)](https://github.com/timeseriesAI/tsai)  
 
 
- -------------- 
-**Комплексные библиотеки:**  
+ - - -  
+**Комплексные библиотеки:**
+[pyAF](https://github.com/antoinecarme/pyaf)  
+[neural_prophet](https://github.com/ourownstory/neural_prophet) 
 [ETNA (tinkoff)](https://github.com/etna-team/etna)    
 [AutoGluonTS автоматический прогон моделей (WeightedEnsemble, RecursiveTabular, SeasonalNaive,DirectTabular, ETS, Theta, TemporalFusionTransformer(TFT), Naive)](https://auto.gluon.ai/stable/tutorials/timeseries/forecasting-quick-start.html)
 
@@ -31,13 +33,18 @@
 [SSSD](https://github.com/AI4HealthUOL/SSSD)  
 [Awesome-TimeSeries-SpatioTemporal-Diffusion-Model](https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)
 
-----------
+- - - 
 **Одиночные модели:**  
-[SegRNN](https://github.com/lss-1138/SegRNN)
+ 
+
+[SegRNN](https://github.com/lss-1138/SegRNN)  
+
 [PatchTST(official)](https://github.com/yuqinie98/patchtst)
 
-[PatchMixer (official)](https://github.com/Zeying-Gong/PatchMixer)
-[PatchMixer](https://github.com/yuvrajiro/rt_forecasting_PatchMixer)
+[PatchMixer (official)](https://github.com/Zeying-Gong/PatchMixer)  
+
+[PatchMixer](https://github.com/yuvrajiro/rt_forecasting_PatchMixer)  
+
 [n-beats](https://github.com/philipperemy/n-beats)  
 [N-BEATS](https://github.com/ServiceNow/N-BEATS)
 
