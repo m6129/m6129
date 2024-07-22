@@ -1,5 +1,5 @@
 ### Всем Доброго дня 👋
- m6129ds@gmail.com
+ 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m6129&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=m6129&theme=monokai)
