@@ -1,5 +1,5 @@
 ### Всем Доброго дня 👋
- 
+ домашних проектов для всеобщего обозрения, пользования пока нет (, но предполагаю это исправить
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m6129&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=m6129&theme=monokai)
